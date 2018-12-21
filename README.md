@@ -1,12 +1,19 @@
 # vue-admin
 
-基于thinkphp5、vue、element-ui而实现的前后端分离后台模板框架
+基于thinkphp5、vue、element-ui而实现的前后端分离完整解决方案
+
+vue代码位于/public/vue-admin-code/下，使用vue-cli3脚手架
 
 感谢技术栈:
-1、vue2
+
+1、vue2 
+
 2、element-ui2.4
+
 2、vue-element-admin
+
 3.thinkphp5
+
 
 体验地址
 http://api.hardphp.com/vue-admin/index.html
